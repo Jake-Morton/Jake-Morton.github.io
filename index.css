@@ -1,0 +1,92 @@
+#bg {
+    background-image: url("images/JM-jobsite.jpg");
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+}
+
+#MainBack {
+    height: 300%;
+    width: 100%;
+    position: absolute;
+    top: 85%;
+    left: 0%;
+
+    display: flexbox;
+
+    background: linear-gradient(180deg, rgb(107, 107, 107), rgb(107, 107, 107), rgb(107, 107, 107), rgb(107, 107, 107), rgb(68, 68, 68));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#detailBack {
+    height: 201%;
+    width:100%;
+    left:0%;
+    top:84.5%;
+    position: absolute;
+
+    background-color: navy;
+}
+
+#headBar {
+    height: 10%;
+    width: 100%;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    background: linear-gradient(180deg, rgb(75, 106, 207), rgb(40, 53, 167), rgb(40, 53, 167), rgb(40, 53, 167), rgb(35, 18, 110));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#titleCard {
+    height: 30%;
+    width: 70%;
+    position: absolute;
+    left: 15%;
+    top: 30%;
+    background-color: rgba(97, 97, 97, 0.616);
+
+    text-align: center;
+    border-radius: 50px;
+}
+
+#title {
+    font-size: 400%;
+    color:white;
+    font-family: sans-serif;
+    user-select: none;
+}
+
+#subtitle {
+    font-size: 200%;
+    margin-top: -2%;
+    color:white;
+    font-family: sans-serif;
+
+    user-select: none;
+}
+
+#home {
+    height: 100%;
+    width: 7%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    
+    border-right: solid;
+    border-right-width: 5px;
+    border-right-color: rgb(196, 196, 196);
+}
+
+#home:hover {
+    background-color:rgba(35, 18, 110, 0.63);
+}

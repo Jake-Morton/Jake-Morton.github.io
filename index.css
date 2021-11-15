@@ -90,3 +90,67 @@
 #home:hover {
     background-color:rgba(35, 18, 110, 0.63);
 }
+
+#about {
+    height: 100%;
+    width: 7%;
+    position: absolute;
+    top: 0%;
+    right: 22%;
+    
+    border-left: solid;
+    border-left-width: 5px;
+    border-left-color: rgb(196, 196, 196);
+}
+
+#about:hover {
+    background-color:rgba(35, 18, 110, 0.63);
+}
+
+#service {
+    height: 100%;
+    width: 7%;
+    position: absolute;
+    top: 0%;
+    right: 15%;
+    
+    border-left: solid;
+    border-left-width: 5px;
+    border-left-color: rgb(196, 196, 196);
+}
+
+#service:hover {
+    background-color:rgba(35, 18, 110, 0.63);
+}
+
+#statementNav {
+    height: 100%;
+    width: 8%;
+    position: absolute;
+    top: 0%;
+    right: 7%;
+    
+    border-left: solid;
+    border-left-width: 5px;
+    border-left-color: rgb(196, 196, 196);
+}
+
+#statementNav:hover {
+    background-color:rgba(35, 18, 110, 0.63);
+}
+
+#resume {
+    height: 100%;
+    width: 7%;
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    
+    border-left: solid;
+    border-left-width: 5px;
+    border-left-color: rgb(196, 196, 196);
+}
+
+#resume:hover {
+    background-color:rgba(35, 18, 110, 0.63);
+}
